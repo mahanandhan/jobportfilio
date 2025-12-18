@@ -1,5 +1,33 @@
 const skills = [
   {
+    name: 'UI/UX Design',
+    image: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg',
+  },
+  {
+    name: 'Wireframing',
+    image: 'https://cdn-icons-png.flaticon.com/512/1055/1055687.png',
+  },
+  {
+    name: 'prototyping',
+    image: 'https://cdn-icons-png.flaticon.com/512/1055/1055689.png',
+  },
+  {
+    name: 'Basic Design Systems & Style Guides',
+    image: 'https://cdn-icons-png.flaticon.com/512/1055/1055690.png',
+  },
+  {
+    name: 'HTML',
+    image: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg',
+  },
+  {
+    name: 'CSS',
+    image: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg',
+  },
+  {
+    name: 'JavaScript',
+    image: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg',
+  },
+  {
     name: 'ReactJS',
     image: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg',
   },
@@ -19,6 +47,7 @@ const skills = [
     name: 'MongoDB',
     image: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg',
   },
+  
 ];
 
 const Skills = () => {

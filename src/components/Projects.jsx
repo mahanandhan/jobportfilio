@@ -10,6 +10,21 @@ function Projects() {
       description: 'A secure satellite tracker using MERN + 3D visuals.',
       link: 'https://satellitelaunchtracker.vercel.app/',
     },
+    {
+      title: 'NextGen Virtual Reality Experience – UI/UX Case Study',
+      description: 'A comprehensive UI/UX case study for a VR experience platform.',
+      link: 'https://www.figma.com/proto/pJ1YDdtXxGKbTQ2ct4s5hQ/Untitled?node-id=1-2',
+    },
+    {
+      title: 'Shoe Store Ecommerce App – UI/UX Design',
+      description: 'A modern e-commerce platform for a shoe store with UI/UX design.',
+      link: 'https://www.figma.com/proto/usgKV6xZCU3Z5Bo9MeqsJB/Untitled?node-id=42-110',
+    },
+    {
+      title: 'Web Developer Portfolio Website – UI Design',
+      description: 'A modern portfolio website for a web developer with UI design.',
+      link: 'https://www.figma.com/design/jEytT1UXVa0mMTzsv8F0cd/Untitled',
+    }
   ];
 
   return (
